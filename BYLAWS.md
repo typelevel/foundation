@@ -147,7 +147,7 @@ No committee shall be delegated final decision-making power over any of the foll
 The board of directors may authorize the president or any officer or agent of the corporation to enter into any contract or execute and deliver any instrument in the name of the corporation, and such authority may be general or confined to specific instances. Unless authorized by the board of directors, no individual officer, agent, or employee shall have any power or authority to bind the corporation by any contract or engagement. Resolutions of the board authorizing any agent to enter into any contract or execute and deliver any instrument in the name of the corporation shall be kept with the minutes of the board.
 
 ### SECTION 4.2. CHECKS AND NOTES
-Except as otherwise specifically determined by the board of directors, or as otherwise required by law, checks, drafts, promissory notes, orders for the payment of money, and other evidence of indebtedness of the corporation in excess of $10,000 shall be signed by the treasurer and countersigned by the president of the corporation. Such instruments of amounts of $10,000 or less may be signed by either the president or the treasurer.
+Except as otherwise specifically determined by the board of directors, or as otherwise required by law, checks, drafts, promissory notes, orders for the payment of money, and other evidence of indebtedness of the corporation in excess of $10,000 shall be signed by the treasurer and countersigned by either the president or the executive director of the corporation. Such instruments of amounts of $10,000 or less may be signed by the executive director, the president or the treasurer.
 
 
 ## ARTICLE 5. CORPORATE RECORDS AND REPORTS
