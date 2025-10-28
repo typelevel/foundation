@@ -114,6 +114,9 @@ The President may serve as the representative of the corporation in meetings and
 (d) The Treasurer shall receive, or cause to be received, and disburse, or cause to be disbursed, monies due and payable to the corporation and monies to be paid by the corporation as directed by the board of directors.
 (e) The Treasurer shall certify financial statements as needed and ensure all directors have access to financial information and reports as needed to facilitate decision-making by the board.
 
+### SECTION 2.8. DUTIES OF EXECUTIVE DIRECTOR
+The Executive Director shall fulfill the roles customarily associated with the Chief Executive Officer of a corporation and shall be more particularly described in a job description which shall be adopted and may from time to time be modified by the board.
+
 ### SECTION 2.9. COMPENSATION
 The salaries of the officers, if any, shall be set by the board of directors. An officer who is also a member of the board of directors may receive a salary as long as such compensation is paid for serving as an officer of this corporation (not as a director) and as long as such compensation is permitted under the provisions of Section 1.6, of these bylaws. In all cases, any salaries received by officers of this corporation shall be reasonable and given in return for services actually rendered for the corporation. All officer salaries must also be approved in accordance with this corporation's conflict of interest policy in Article 7 of these bylaws.
 
