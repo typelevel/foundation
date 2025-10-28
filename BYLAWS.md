@@ -3,7 +3,7 @@
 ## ARTICLE 1. DIRECTORS
 
 ### SECTION 1.1. NUMBER
-The corporation shall have 3 to 7 directors and collectively they shall be known as the board of directors or simply as the board. The board shall from time to time pass a resolution fixing the precise number of seats on the board within the aforementioned range and that number will be the number of directors until the board passes a subsequent resolution fixing a new number, provided, however, that no board resolution changing the number of directors of the corporation shall case the removal of any director then holding office. Certain employees and/or officers of the corporation may have the term “director” in their title, however, this does not necessarily indicate that the person is a member of the board of directors. A person becomes a director only pursuant to these bylaws.
+The corporation shall have 3 to 7 directors and collectively they shall be known as the board of directors or simply as the board. The board shall from time to time pass a resolution fixing the precise number of seats on the board within the aforementioned range and that number will be the number of directors until the board passes a subsequent resolution fixing a new number, provided, however, that no board resolution changing the number of directors of the corporation shall case the removal of any director then holding office. Certain employees and/or officers of the corporation may have the term "director" in their title, however, this does not necessarily indicate that the person is a member of the board of directors. A person becomes a director only pursuant to these bylaws.
 
 ### SECTION 1.2. POWERS
 Subject to the provisions of the California Nonprofit Public Benefit Corporation law, the activities and affairs of this corporation shall be conducted and all corporate powers shall be exercised by or under the direction of the board of directors.
@@ -19,10 +19,10 @@ It shall be the duty of the directors to:
 Each Director shall hold office for a term of Directors shall be elected by the outgoing board of directors annually, except when filling a vacancy such vacancy may be filled for the duration of the term of that vacant office at the board meeting following the occurrence of a vacancy.
 
 ### SECTION 1.5. COMPENSATION
-Directors shall serve without compensation except that they shall be allowed reasonable advancement or reimbursement of expenses incurred in the performance of their duties. Directors may not be compensated for rendering services to the corporation except as allowable under the provisions of Section 1.6 below and pursuant to this corporation’s conflict of interest policy as set forth in Article 7 of these bylaws.
+Directors shall serve without compensation except that they shall be allowed reasonable advancement or reimbursement of expenses incurred in the performance of their duties. Directors may not be compensated for rendering services to the corporation except as allowable under the provisions of Section 1.6 below and pursuant to this corporation's conflict of interest policy as set forth in Article 7 of these bylaws.
 
 ### SECTION 1.6. RESTRICTION REGARDING INTERESTED DIRECTORS
-Notwithstanding any other provision of these bylaws, not more than forty-nine percent (49%) of the persons serving on the board may be interested persons. For purposes of this Section, “interested person” means either:
+Notwithstanding any other provision of these bylaws, not more than forty-nine percent (49%) of the persons serving on the board may be interested persons. For purposes of this Section, "interested person" means either:
   (a) Any person compensated by the corporation for services rendered to it within the previous twelve (12) months, whether as a full- or part-time officer, employee, independent contractor, or otherwise; or
   (b) Any agent, principal, brother, sister, ancestor, descendant, spouse, brother-in-law, sister-in-law, son-in-law, daughter-in-law, mother-in-law, or father-in-law of any person described in paragraph (a) above.
 
@@ -39,7 +39,7 @@ Regular meetings of directors shall be held on a recurring schedule that shall b
 Special meetings of the board of directors may be called by any officer of the corporation, or by any two directors, and such meetings shall be held at the place designated by the person or persons calling the meeting, and in the absence of such designation, at the principal office of the corporation.
 
 ### SECTION 1.10. NOTICE OF MEETINGS
-Regular meetings of the board may be held without notice. Special meetings of the board shall be held upon 48 hours notice (unless notice is provided by first-class mail in which case there shall be at least 4 days’ notice). Use of email or other electronic notice shall be valid so long as each director has provided an email address or other electronic communication contact information to the Secretary of the corporation for notice purposes, and the director has not withdrawn consent to receive notices of meetings by such electronic means. Any changes in contact information for notice purposes must be made in writing and presented to the Secretary of the Corporation.
+Regular meetings of the board may be held without notice. Special meetings of the board shall be held upon 48 hours notice (unless notice is provided by first-class mail in which case there shall be at least 4 days' notice). Use of email or other electronic notice shall be valid so long as each director has provided an email address or other electronic communication contact information to the Secretary of the corporation for notice purposes, and the director has not withdrawn consent to receive notices of meetings by such electronic means. Any changes in contact information for notice purposes must be made in writing and presented to the Secretary of the Corporation.
 
 ### SECTION 1.11. CONTENTS OF NOTICE
 Notice of meetings not herein dispensed with shall specify the place, day, and hour of the meeting. The purpose of any board meeting need not be specified in the notice unless these Bylaws require notice of a certain type of action to be considered at a meeting.
@@ -64,7 +64,7 @@ The transactions of any meeting of the board, however called and noticed or wher
 Meetings of the board of directors shall be presided over by a chairperson chosen by a majority of the directors present at the meeting. The secretary of the corporation shall act as secretary of all meetings of the board, provided that, in their absence, the presiding officer shall appoint another person to act as secretary of the meeting.
 
 ### SECTION 1.16. ACTION BY UNANIMOUS WRITTEN CONSENT WITHOUT MEETING
-Any action required or permitted to be taken by the board of directors may be taken without a meeting, if all members of the board shall individually or collectively consent in writing to such action. For the purposes of this Section only, “all members of the board” shall not include any “interested director” as defined in Section 5233 of the California Nonprofit Public Benefit Corporation Law or any director who is recused due to any potential or actual conflicts of interest. Such written consent or consents shall be filed with the minutes of the proceedings of the board. Such action by written consent shall have the same force and effect as the unanimous vote of the directors.
+Any action required or permitted to be taken by the board of directors may be taken without a meeting, if all members of the board shall individually or collectively consent in writing to such action. For the purposes of this Section only, "all members of the board" shall not include any "interested director" as defined in Section 5233 of the California Nonprofit Public Benefit Corporation Law or any director who is recused due to any potential or actual conflicts of interest. Such written consent or consents shall be filed with the minutes of the proceedings of the board. Such action by written consent shall have the same force and effect as the unanimous vote of the directors.
 
 ### SECTION 1.17. VACANCIES
 (a) Vacancies on the board of directors shall exist (1) on the death, resignation, or removal of any director, (2) whenever the number of authorized directors is increased, and (3) when a director has been absent for three consecutive, duly noticed meetings of the board and the board has voted to declare the office of said director vacant.
@@ -115,7 +115,7 @@ The President may serve as the representative of the corporation in meetings and
 (e) The Treasurer shall certify financial statements as needed and ensure all directors have access to financial information and reports as needed to facilitate decision-making by the board.
 
 ### SECTION 2.9. COMPENSATION
-The salaries of the officers, if any, shall be set by the board of directors. An officer who is also a member of the board of directors may receive a salary as long as such compensation is paid for serving as an officer of this corporation (not as a director) and as long as such compensation is permitted under the provisions of Section 1.6, of these bylaws. In all cases, any salaries received by officers of this corporation shall be reasonable and given in return for services actually rendered for the corporation. All officer salaries must also be approved in accordance with this corporation’s conflict of interest policy in Article 7 of these bylaws.
+The salaries of the officers, if any, shall be set by the board of directors. An officer who is also a member of the board of directors may receive a salary as long as such compensation is paid for serving as an officer of this corporation (not as a director) and as long as such compensation is permitted under the provisions of Section 1.6, of these bylaws. In all cases, any salaries received by officers of this corporation shall be reasonable and given in return for services actually rendered for the corporation. All officer salaries must also be approved in accordance with this corporation's conflict of interest policy in Article 7 of these bylaws.
 
 ## ARTICLE 3. COMMITTEES
 
@@ -151,13 +151,13 @@ Except as otherwise specifically determined by the board of directors, or as oth
 
 ### SECTION 5.1. GENERAL RECORDS AND REPORTS
 The corporation shall keep at its principal office in the State of California all of the following:
-(a) Copies of the Corporation’s Articles of Incorporation, Bylaws, documents evidencing the corporation’s tax-exempt status, recent tax filings, and all other current corporation documents.
+(a) Copies of the Corporation's Articles of Incorporation, Bylaws, documents evidencing the corporation's tax-exempt status, recent tax filings, and all other current corporation documents.
 (b) A file of minutes of all meetings of the directors, and, if applicable, meetings of committees, including records of how meetings were called, how notice thereof was given, the names of those present or represented at the meeting, and the proceedings thereof. Said file should include any supporting documents pertaining to meetings, minutes, and consents and any copies of written consents of the board.
 
 ### SECTION 5.2. FINANCIAL RECORDS AND REPORTS
 The corporation shall keep at its principal office in the State of California all of the
 following:
-  (a) Adequate and correct accounts of the corporation’s properties and all business transactions, including accounts of its assets, liabilities, receipts, disbursements, gains, and losses;
+  (a) Adequate and correct accounts of the corporation's properties and all business transactions, including accounts of its assets, liabilities, receipts, disbursements, gains, and losses;
   (b) Financial statements to be included in any required reports;
   (c) Tax filings as made with all local, state, and federal agencies.
 
@@ -171,7 +171,7 @@ The fiscal year of the corporation shall begin on the first of January and end o
 ## ARTICLE 7. CONFLICT OF INTEREST AND COMPENSATION APPROVAL POLICIES
 
 ### SECTION 7.1. PURPOSE OF CONFLICT OF INTEREST POLICY
-The purpose of this conflict of interest policy is to protect this tax-exempt corporation’s interest when it is contemplating entering into a transaction or arrangement that might benefit the private interest of an officer or director of the corporation or might result in a possible excess benefit transaction. This policy is intended to supplement but not replace any applicable state and federal laws governing conflict of interest applicable to nonprofit and charitable organizations.
+The purpose of this conflict of interest policy is to protect this tax-exempt corporation's interest when it is contemplating entering into a transaction or arrangement that might benefit the private interest of an officer or director of the corporation or might result in a possible excess benefit transaction. This policy is intended to supplement but not replace any applicable state and federal laws governing conflict of interest applicable to nonprofit and charitable organizations.
 
 ### SECTION 7.2. DEFINITIONS
 (a) _Interested Person._ Any director, principal officer, member of a committee with governance powers, or any other person who has a direct or indirect financial interest, as defined below, is an interested person.
@@ -189,19 +189,19 @@ Compensation includes direct and indirect remuneration as well as gifts or favor
   (i) An interested person may make a presentation at the governing board or committee meeting regarding the transaction, but after the presentation, they shall leave the meeting during the discussion of, and the vote on, the transaction or arrangement involving the possible conflict of interest.
   (ii) The chairperson of the governing board or committee shall, if appropriate, appoint a disinterested person or committee to investigate alternatives to the proposed transaction or arrangement.
   (iii) After exercising due diligence, the governing board or committee shall determine whether the corporation can obtain with reasonable efforts a more advantageous transaction or arrangement from a person or entity that would not give rise to a conflict of interest.
-  (iv) If a more advantageous transaction or arrangement is not reasonably possible under circumstances not producing a conflict of interest, the governing board or committee shall determine by a majority vote of the disinterested directors whether the transaction or arrangement is in the corporation’s best interest, for its own benefit, and whether it is fair and reasonable. In conformity with the above determination, it shall make its decision as to whether to enter into the transaction or arrangement.
+  (iv) If a more advantageous transaction or arrangement is not reasonably possible under circumstances not producing a conflict of interest, the governing board or committee shall determine by a majority vote of the disinterested directors whether the transaction or arrangement is in the corporation's best interest, for its own benefit, and whether it is fair and reasonable. In conformity with the above determination, it shall make its decision as to whether to enter into the transaction or arrangement.
 (d) **Violations of the Conflicts of Interest Policy.**
   (i) If the governing board or committee has reasonable cause to believe a member has failed to disclose actual or possible conflicts of interest, it shall inform the member of the basis for such belief and afford the member an opportunity to explain the alleged failure to disclose.
-  (ii) If, after hearing the member’s response and after making further investigation as warranted by the circumstances, the governing board or committee determines the member has failed to disclose an actual or possible conflict of interest, it shall take appropriate disciplinary and corrective action.
+  (ii) If, after hearing the member's response and after making further investigation as warranted by the circumstances, the governing board or committee determines the member has failed to disclose an actual or possible conflict of interest, it shall take appropriate disciplinary and corrective action.
 
 ### SECTION 7.4. RECORDS OF PROCEEDINGS
 The minutes of meetings during which any potential or actual conflict of interest is
 discussed shall contain:
-  (a) The names of the persons who disclosed or otherwise were found to have a financial interest in connection with an actual or possible conflict of interest, the nature of the financial interest, any action taken to determine whether a conflict of interest was present, and the governing board’s or committee’s decision as to whether a conflict of interest in fact existed.
+  (a) The names of the persons who disclosed or otherwise were found to have a financial interest in connection with an actual or possible conflict of interest, the nature of the financial interest, any action taken to determine whether a conflict of interest was present, and the governing board's or committee's decision as to whether a conflict of interest in fact existed.
   (b) The names of the persons who were present for discussions and votes relating to the transaction or arrangement, the content of the discussion, including any alternatives to the proposed transaction or arrangement, and a record of any votes taken in connection with the proceedings.
 
 ### SECTION 7.5. COMPENSATION APPROVAL POLICIES
-(a) Any voting member of the board of directors who receives compensation, directly or indirectly, from the corporation is precluded from voting on matters pertaining to that member’s compensation. Similarly, a voting member of any committee whose jurisdiction includes compensation matters is precluded from voting on matters pertaining to that member’s compensation, if any.
+(a) Any voting member of the board of directors who receives compensation, directly or indirectly, from the corporation is precluded from voting on matters pertaining to that member's compensation. Similarly, a voting member of any committee whose jurisdiction includes compensation matters is precluded from voting on matters pertaining to that member's compensation, if any.
 (b) When approving compensation for directors, officers and employees, contractors, and any other compensation contract or arrangement, in addition to complying with the conflict of interest requirements and policies contained in the preceding and following sections of this article as well as the preceding paragraphs of this section of this article, the board or any compensation committee shall obtain and rely upon appropriate data regarding compensation of similar positions prior to approving the terms of compensation. Appropriate data may include the following:
   (i) compensation levels paid by similarly situated organizations, both taxable and tax-exempt, for functionally comparable positions;
   (ii) the availability of similar services in the geographic area of this organization;
