@@ -16,7 +16,7 @@ It shall be the duty of the directors to:
   (d) Register and maintain their current contact information with the secretary of the corporation so that valid notices of meetings may be sent to them as needed.
 
 ### SECTION 1.4. TERMS OF OFFICE
-Each Director shall hold office for a term of Directors shall be elected by the outgoing board of directors annually, except when filling a vacancy such vacancy may be filled for the duration of the term of that vacant office at the board meeting following the occurrence of a vacancy.
+Each Director shall hold office for a term of 2 years, except among the initial board there shall be approximately half of the directors assigned by resolution of the board to 1 year terms so as to create a staggering of terms. Directors shall be elected by the outgoing board of directors annually, except when filling a vacancy such vacancy may be filled for the duration of the term of that vacant office at the board meeting following the occurrence of a vacancy.
 
 ### SECTION 1.5. COMPENSATION
 Directors shall serve without compensation except that they shall be allowed reasonable advancement or reimbursement of expenses incurred in the performance of their duties. Directors may not be compensated for rendering services to the corporation except as allowable under the provisions of Section 1.6 below and pursuant to this corporation's conflict of interest policy as set forth in Article 7 of these bylaws.
