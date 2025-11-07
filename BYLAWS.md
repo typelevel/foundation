@@ -55,10 +55,10 @@ The transactions of any meeting of the board, however called and noticed or wher
 ### SECTION 1.14. MAJORITY ACTION AS BOARD ACTION
 (a) Every act or decision done or made by a majority of the directors present at a meeting duly held at which a quorum is present is the act of the board of directors, except those decisions described in paragraph (b) of this section.
 (b)
-  (i) Any decisions that require a greater threshold of votes pursuant to the California Nonprofit Public Benefit Corporation Law, particularly those provisions relating to appointment of committees (Section 5212), approval of contracts or transactions in which a director has a material financial interest (Section 5233), and indemnification of directors (Section 5238e) shall be so governed by that law.
-  (ii) The removal of a director shall require a vote pursuant to Section 1.17 of these bylaws.
-  (iii) The Amendment of these Bylaws or Articles of Incorporation require the votes described in Article 8 of these Bylaws.
-  (vi) The dissolution of the corporation shall be governed by Article 9 of these Bylaws.
+    (i) Any decisions that require a greater threshold of votes pursuant to the California Nonprofit Public Benefit Corporation Law, particularly those provisions relating to appointment of committees (Section 5212), approval of contracts or transactions in which a director has a material financial interest (Section 5233), and indemnification of directors (Section 5238e) shall be so governed by that law.
+    (ii) The removal of a director shall require a vote pursuant to Section 1.17 of these bylaws.
+    (iii) The Amendment of these Bylaws or Articles of Incorporation require the votes described in Article 8 of these Bylaws.
+    (vi) The dissolution of the corporation shall be governed by Article 9 of these Bylaws.
 
 ### SECTION 1.15. CONDUCT OF MEETINGS
 Meetings of the board of directors shall be presided over by a chairperson chosen by a majority of the directors present at the meeting. The secretary of the corporation shall act as secretary of all meetings of the board, provided that, in their absence, the presiding officer shall appoint another person to act as secretary of the meeting.
@@ -180,22 +180,22 @@ The purpose of this conflict of interest policy is to protect this tax-exempt co
 (a) _Interested Person._ Any director, principal officer, member of a committee with governance powers, or any other person who has a direct or indirect financial interest, as defined below, is an interested person.
 (b) _Financial Interest._ A person has a financial interest if the person has, directly
 or indirectly, through business, investment, or family:
-  (i) an ownership or investment interest in any entity with which the corporation has a transaction or arrangement,
-  (ii) a compensation arrangement with the corporation or with any entity or individual with which the corporation has a transaction or arrangement, or
-  (iii) a potential ownership or investment interest in, or compensation arrangement with, any entity or individual with which the corporation is negotiating a transaction or arrangement.
+    (i) an ownership or investment interest in any entity with which the corporation has a transaction or arrangement,
+    (ii) a compensation arrangement with the corporation or with any entity or individual with which the corporation has a transaction or arrangement, or
+    (iii) a potential ownership or investment interest in, or compensation arrangement with, any entity or individual with which the corporation is negotiating a transaction or arrangement.
 Compensation includes direct and indirect remuneration as well as gifts or favors that are not insubstantial. A financial interest is not necessarily a conflict of interest as provided in Section 7.3, paragraph b of this article.
 
 ### SECTION 7.3. CONFLICT OF INTEREST AVOIDANCE PROCEDURES
 (a) **Duty to Disclose.** In connection with any actual or possible conflict of interest, an interested person must disclose the existence of the financial interest and be given the opportunity to disclose all material facts to the directors and members of committees with governing powers considering the proposed transaction or arrangement.
 (b) **Determining Whether a Conflict of Interest Exists.** After disclosure of the financial interest and all material facts, and after any discussion with the interested person, they shall leave the governing board or committee meeting while the determination of a conflict of interest is discussed and voted upon. The remaining board or committee members shall decide if a conflict of interest exists.
 (c) **Procedures for Addressing the Conflict of Interest.**
-  (i) An interested person may make a presentation at the governing board or committee meeting regarding the transaction, but after the presentation, they shall leave the meeting during the discussion of, and the vote on, the transaction or arrangement involving the possible conflict of interest.
-  (ii) The chairperson of the governing board or committee shall, if appropriate, appoint a disinterested person or committee to investigate alternatives to the proposed transaction or arrangement.
-  (iii) After exercising due diligence, the governing board or committee shall determine whether the corporation can obtain with reasonable efforts a more advantageous transaction or arrangement from a person or entity that would not give rise to a conflict of interest.
-  (iv) If a more advantageous transaction or arrangement is not reasonably possible under circumstances not producing a conflict of interest, the governing board or committee shall determine by a majority vote of the disinterested directors whether the transaction or arrangement is in the corporation's best interest, for its own benefit, and whether it is fair and reasonable. In conformity with the above determination, it shall make its decision as to whether to enter into the transaction or arrangement.
+    (i) An interested person may make a presentation at the governing board or committee meeting regarding the transaction, but after the presentation, they shall leave the meeting during the discussion of, and the vote on, the transaction or arrangement involving the possible conflict of interest.
+    (ii) The chairperson of the governing board or committee shall, if appropriate, appoint a disinterested person or committee to investigate alternatives to the proposed transaction or arrangement.
+    (iii) After exercising due diligence, the governing board or committee shall determine whether the corporation can obtain with reasonable efforts a more advantageous transaction or arrangement from a person or entity that would not give rise to a conflict of interest.
+    (iv) If a more advantageous transaction or arrangement is not reasonably possible under circumstances not producing a conflict of interest, the governing board or committee shall determine by a majority vote of the disinterested directors whether the transaction or arrangement is in the corporation's best interest, for its own benefit, and whether it is fair and reasonable. In conformity with the above determination, it shall make its decision as to whether to enter into the transaction or arrangement.
 (d) **Violations of the Conflicts of Interest Policy.**
-  (i) If the governing board or committee has reasonable cause to believe a member has failed to disclose actual or possible conflicts of interest, it shall inform the member of the basis for such belief and afford the member an opportunity to explain the alleged failure to disclose.
-  (ii) If, after hearing the member's response and after making further investigation as warranted by the circumstances, the governing board or committee determines the member has failed to disclose an actual or possible conflict of interest, it shall take appropriate disciplinary and corrective action.
+    (i) If the governing board or committee has reasonable cause to believe a member has failed to disclose actual or possible conflicts of interest, it shall inform the member of the basis for such belief and afford the member an opportunity to explain the alleged failure to disclose.
+    (ii) If, after hearing the member's response and after making further investigation as warranted by the circumstances, the governing board or committee determines the member has failed to disclose an actual or possible conflict of interest, it shall take appropriate disciplinary and corrective action.
 
 ### SECTION 7.4. RECORDS OF PROCEEDINGS
 The minutes of meetings during which any potential or actual conflict of interest is
@@ -206,10 +206,10 @@ discussed shall contain:
 ### SECTION 7.5. COMPENSATION APPROVAL POLICIES
 (a) Any voting member of the board of directors who receives compensation, directly or indirectly, from the corporation is precluded from voting on matters pertaining to that member's compensation. Similarly, a voting member of any committee whose jurisdiction includes compensation matters is precluded from voting on matters pertaining to that member's compensation, if any.
 (b) When approving compensation for directors, officers and employees, contractors, and any other compensation contract or arrangement, in addition to complying with the conflict of interest requirements and policies contained in the preceding and following sections of this article as well as the preceding paragraphs of this section of this article, the board or any compensation committee shall obtain and rely upon appropriate data regarding compensation of similar positions prior to approving the terms of compensation. Appropriate data may include the following:
-  (i) compensation levels paid by similarly situated organizations, both taxable and tax-exempt, for functionally comparable positions;
-  (ii) the availability of similar services in the geographic area of this organization;
-  (iii) current compensation surveys compiled by independent firms; and
-  (iv) actual written offers from similar institutions competing for the services of the person who is the subject of the compensation arrangement.
+    (i) compensation levels paid by similarly situated organizations, both taxable and tax-exempt, for functionally comparable positions;
+    (ii) the availability of similar services in the geographic area of this organization;
+    (iii) current compensation surveys compiled by independent firms; and
+    (iv) actual written offers from similar institutions competing for the services of the person who is the subject of the compensation arrangement.
 (c) The terms of compensation and the basis for approving them shall be recorded in written minutes of the meeting of the body that approved of the compensation.
 
 ### SECTION 7.6. ANNUAL STATEMENTS
