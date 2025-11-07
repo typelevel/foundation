@@ -16,7 +16,7 @@ It shall be the duty of the directors to:
   (d) Register and maintain their current contact information with the secretary of the corporation so that valid notices of meetings may be sent to them as needed.
 
 ### SECTION 1.4. TERMS OF OFFICE
-Each Director shall hold office for a term of Directors shall be elected by the outgoing board of directors annually, except when filling a vacancy such vacancy may be filled for the duration of the term of that vacant office at the board meeting following the occurrence of a vacancy.
+Each Director shall hold office for a term of 2 years, except among the initial board there shall be approximately half of the directors assigned by resolution of the board to 1 year terms so as to create a staggering of terms. Directors shall be elected by the outgoing board of directors annually, except when filling a vacancy such vacancy may be filled for the duration of the term of that vacant office at the board meeting following the occurrence of a vacancy.
 
 ### SECTION 1.5. COMPENSATION
 Directors shall serve without compensation except that they shall be allowed reasonable advancement or reimbursement of expenses incurred in the performance of their duties. Directors may not be compensated for rendering services to the corporation except as allowable under the provisions of Section 1.6 below and pursuant to this corporation's conflict of interest policy as set forth in Article 7 of these bylaws.
@@ -114,6 +114,9 @@ The President may serve as the representative of the corporation in meetings and
 (d) The Treasurer shall receive, or cause to be received, and disburse, or cause to be disbursed, monies due and payable to the corporation and monies to be paid by the corporation as directed by the board of directors.
 (e) The Treasurer shall certify financial statements as needed and ensure all directors have access to financial information and reports as needed to facilitate decision-making by the board.
 
+### SECTION 2.8. DUTIES OF EXECUTIVE DIRECTOR
+The Executive Director shall fulfill the roles customarily associated with the Chief Executive Officer of a corporation and shall be more particularly described in a job description which shall be adopted and may from time to time be modified by the board.
+
 ### SECTION 2.9. COMPENSATION
 The salaries of the officers, if any, shall be set by the board of directors. An officer who is also a member of the board of directors may receive a salary as long as such compensation is paid for serving as an officer of this corporation (not as a director) and as long as such compensation is permitted under the provisions of Section 1.6, of these bylaws. In all cases, any salaries received by officers of this corporation shall be reasonable and given in return for services actually rendered for the corporation. All officer salaries must also be approved in accordance with this corporation's conflict of interest policy in Article 7 of these bylaws.
 
@@ -144,7 +147,7 @@ No committee shall be delegated final decision-making power over any of the foll
 The board of directors may authorize the president or any officer or agent of the corporation to enter into any contract or execute and deliver any instrument in the name of the corporation, and such authority may be general or confined to specific instances. Unless authorized by the board of directors, no individual officer, agent, or employee shall have any power or authority to bind the corporation by any contract or engagement. Resolutions of the board authorizing any agent to enter into any contract or execute and deliver any instrument in the name of the corporation shall be kept with the minutes of the board.
 
 ### SECTION 4.2. CHECKS AND NOTES
-Except as otherwise specifically determined by the board of directors, or as otherwise required by law, checks, drafts, promissory notes, orders for the payment of money, and other evidence of indebtedness of the corporation in excess of $10,000 shall be signed by the treasurer and countersigned by the president of the corporation. Such instruments of amounts of $10,000 or less may be signed by either the president or the treasurer.
+Except as otherwise specifically determined by the board of directors, or as otherwise required by law, checks, drafts, promissory notes, orders for the payment of money, and other evidence of indebtedness of the corporation in excess of $10,000 shall be signed by the treasurer and countersigned by either the president or the executive director of the corporation. Such instruments of amounts of $10,000 or less may be signed by the executive director, the president or the treasurer.
 
 
 ## ARTICLE 5. CORPORATE RECORDS AND REPORTS
