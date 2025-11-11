@@ -9,5 +9,6 @@ activities which accomplish one or more of its tax-exempt purposes.
 | --------------- | ---------- |
 | Arman Bilge     | 2025-11-08 |
 | Andrew Valencik | 2025-11-11 |
+| Mark Waks       | 2025-11-11 |
 
 [policy]: BYLAWS.md#article-7-conflict-of-interest-and-compensation-approval-policies
